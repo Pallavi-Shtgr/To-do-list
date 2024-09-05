@@ -24,7 +24,7 @@ This guide will walk you through creating your own **To-Do List App** using **Re
 
 ---
 
-## **Step 1: Install Node.js**
+## Step 1: Install Node.js
 
 Before starting, make sure you have **Node.js** installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
@@ -35,27 +35,25 @@ Before starting, make sure you have **Node.js** installed on your system. You ca
 To create a React project using **Vite**, run the following commands:
 
 
-### **1. Use Vite to Create a New Project*
+ 1. Use Vite to Create a New Project
 --------------------------------------------------
  npm create vite@latest todo-list-app -- --template react
 --------------------------------------------------------------------
 
 
-### **2. Navigate to Your Project Folder**
+2. Navigate to Your Project Folder
 Change to the project directory:
 -----------------------------
  cd todo-list
 -------------------------------
 
-
-### **3. Install Project Dependencies**
+3. Install Project Dependencies**
 Install the necessary dependencies:
 ----------------
 npm install
 ----------------------------
 
-
-### **4. Run the Development Server**
+4. Run the Development Server
 To start the development server and view the app in the browser, use:
 -------------------
 ** npm run dev**
