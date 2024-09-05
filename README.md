@@ -11,14 +11,15 @@ This is a simple **To-Do List** application built with **React** and **Vite**. I
 
 Follow the steps below to set up the project locally:
 
-### **1. Clone the Repository**
+### ** Clone the Repository**
 
 Run the following command to clone the repository:
-```bash
 git clone https://github.com/your-username/todo-list-app.git
--------------------------------------------------------------------------
+### ** Clone the Repository**
+
+           **OR**
 # **Create Your Own To-Do List App with React + Vite**
--------------------------------------------------------------------------------------------------
+
 This guide will walk you through creating your own **To-Do List App** using **React** and **Vite**. Follow these steps to set up the project, run it locally, and deploy it!
 
 ---
@@ -32,6 +33,7 @@ Before starting, make sure you have **Node.js** installed on your system. You ca
 ## **Step 2: Create a New React + Vite Project**
 
 To create a React project using **Vite**, run the following commands:
+---
 
 ### **1. Use Vite to Create a New Project**
 npm create vite@latest todo-list-app -- --template react
