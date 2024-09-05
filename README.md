@@ -37,14 +37,14 @@ To create a React project using **Vite**, run the following commands:
 
 ### **1. Use Vite to Create a New Project*
 --------------------------------------------------
-** npm create vite@latest todo-list-app -- --template react**
+ npm create vite@latest todo-list-app -- --template react
 --------------------------------------------------------------------
 
 
 ### **2. Navigate to Your Project Folder**
 Change to the project directory:
 -----------------------------
-** cd todo-list **
+ cd todo-list
 -------------------------------
 
 
