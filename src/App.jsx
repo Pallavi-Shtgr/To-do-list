@@ -62,8 +62,7 @@ export default function App() {
             </label>
             <button
               onClick={() => deleteTodo(todo.id)} 
-              className="btn btn-danger"
-            >
+              className="btn btn-danger">
               Delete
             </button>
           </li>
