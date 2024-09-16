@@ -61,3 +61,12 @@ To start the development server and view the app in the browser, use:
 
 
 The app will be available at http://localhost:5173 in your browser.
+
+![Screenshot 2024-09-16 233402](https://github.com/user-attachments/assets/f01fa313-689d-4cde-8360-37900105a533)
+
+![Screenshot 2024-09-16 233508](https://github.com/user-attachments/assets/2ed6093b-1f55-452b-977f-1e5b51227967)
+
+![Screenshot 2024-09-16 233524](https://github.com/user-attachments/assets/7f3eefbc-c22d-4ed1-b0e0-a2333093f2e3)
+
+
+
