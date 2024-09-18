@@ -17,7 +17,7 @@ Run the following command to clone the repository:
 git clone https://github.com/your-username/todo-list-app.git
 ### ** Clone the Repository**
 
-           OR
+---------------------------------------
 # **Create Your Own To-Do List App with React + Vite**
 
 This guide will walk you through creating your own **To-Do List App** using **React** and **Vite**. Follow these steps to set up the project, run it locally, and deploy it!
